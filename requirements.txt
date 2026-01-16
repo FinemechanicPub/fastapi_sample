@@ -17,7 +17,7 @@ click==8.3.1
     # via
     #   black
     #   uvicorn
-colorama==0.4.6 ; sys_platform == 'win32'
+colorama==0.4.6 
     # via
     #   click
     #   uvicorn
